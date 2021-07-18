@@ -1,2 +1,7 @@
 # PRIMERO HOLA
-commit en readme
+
+CAMBIO EN COPIA LOCAL EN PC FISICO
+
+
+
+
